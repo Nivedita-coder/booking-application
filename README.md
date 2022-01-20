@@ -15,7 +15,7 @@ If not installed go to [Go install docs](https://golang.org/doc/install)
 $ git clone https://github.com/Nivedita-coder/booking-application.git
 ```
 
-- To start the server change the directory to `booking-app` and run
+- To start the application change the directory to `booking-app` and run
 
 ```bash
 $ go run .
